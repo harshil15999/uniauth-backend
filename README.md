@@ -7,3 +7,6 @@
 
 ## Consent Screen
 ![Simple Consent Screen for event](https://i.imgur.com/Sv9DE6S.png) 
+
+## Installation for Local Machine 
+1. For installing on local machine ```https://github.com/UniAuth/uniauth-backend.git```
